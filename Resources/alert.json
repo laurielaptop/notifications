@@ -1,0 +1,12 @@
+{
+   "aps" : {
+      "alert" : {
+         "title" : "Alert Title",
+         "subtitle" : "Alert Subtitle",
+         "body" : "Alert body"
+      },
+      "sound": "default",
+      "badge" : 7
+   },
+   "message" : "Hi there!"
+}

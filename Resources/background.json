@@ -1,0 +1,7 @@
+{
+    "aps": {
+        "content-available": 1
+    },
+    "badgeNumber": 7,
+    "message" : "This is a background push notification."
+}
