@@ -31,7 +31,6 @@
 		4B6107C027985925004309B7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4B6107C52798596B004309B7 /* Notifications.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Notifications.entitlements; sourceTree = "<group>"; };
 		4B6107C627987052004309B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4BB235B127A01C9E0058A4A7 /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 		4BE0E2C5279DFFE600646693 /* NSString+Utilities.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+Utilities.h"; sourceTree = "<group>"; };
 		4BE0E2C6279DFFE600646693 /* NSString+Utilities.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+Utilities.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,7 +63,6 @@
 				4BE0E2C6279DFFE600646693 /* NSString+Utilities.m */,
 				4B6107B427985925004309B7 /* ViewController.h */,
 				4B6107B527985925004309B7 /* ViewController.m */,
-				4BB235B127A01C9E0058A4A7 /* ReadMe.md */,
 			);
 			path = Notifications;
 			sourceTree = "<group>";
